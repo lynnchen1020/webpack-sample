@@ -1,0 +1,26 @@
+#timezone {
+  color: green;
+}
+
+button {
+  width: 100px;
+  height: 25px;
+  cursor: pointer;
+}
+
+#example {
+  width: 100%;
+  color: blue;
+}
+
+#photo {
+  width: 400px;
+  height: 400px;
+  background: url(images/img1.jpg) no-repeat;
+  background-size: 100%;
+}
+
+.box {
+  display: inline-block;
+  width: 20px;
+}
